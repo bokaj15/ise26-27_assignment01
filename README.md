@@ -1,6 +1,6 @@
 # Software Engineering (ISE) Winter Semester 2026/27
 
-This repository is used for the version control assignment. It contains a small Kotlin project, a doubly linked list of `Double` values with JUnit tests, that you use in the exercises on branching, merging, and worktrees.
+This repository is used for the version control assignment. It contains a small Kotlin project, a doubly linked list of `Double` values with JUnit tests, that you use in the exercises on branching, merging, and worktrees. ÄNDERUNG IN DER README
 
 ## Project structure
 
